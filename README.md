@@ -1,6 +1,6 @@
 # SpongeBob
 
-Transcript of SpongeBob SquarePants, as found on [SpongeBob Fandom](https://spongebob.fandom.com)
+Transcript of SpongeBob SquarePants, as found on [SpongeBob Fandom](https://spongebob.fandom.com), and IMDB ratings of each episode.
 
 To install:
 
