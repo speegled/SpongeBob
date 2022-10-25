@@ -1,12 +1,11 @@
 Package: SpongeBob
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Trancript and IMDB Information for SpongeBob
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Darrin Speegle
+Maintainer: The package maintainer <speegled@slu.edu>
+Description: Title, transcript, airdate, number of viewers, IMDB rating, and number of votes for all SpongeBob episodes.
+License: CC BY 4.0
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.2.1
